@@ -1,8 +1,5 @@
 # Deep CNN Autoencoder - Image Compression - Denoising Image
 
-**Complete Video Tutorial for Image Compression:** https://youtu.be/B2MKpFtM1_Q
-
-**Complete Video Tutorial for Denoising Image:** https://youtu.be/En4dZh51Tic
 
 # Project Information
 
